@@ -1,0 +1,15 @@
+{
+    "name": "urijgucaluk/abstact-factory.com",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Юра Гуцалюк",
+            "email": "hutsaluck@gmail.com"
+        }
+    ],
+    "require": {}
+}
